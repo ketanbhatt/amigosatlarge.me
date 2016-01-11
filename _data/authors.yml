@@ -1,20 +1,14 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+ketan_bhatt:
+  name: Ketan Bhatt
+  email: ketanbhatt1006@gmail.com
+  bio: "Wait for it"
   avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+  twitter: ktnbhtt
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+meher_sehgal:
+  name: Meher Sehgal
+  email: mehermsehgal@gmail.com
+  bio: "Wandress"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
