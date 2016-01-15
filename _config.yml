@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://ketanbhatt.github.io/amigosatlarge.me
+url: http://amigosatlarge.me/
 
 # Jekyll configuration
 
@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Ketan Bhatt
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: ketanbhatt1006@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
